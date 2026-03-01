@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="22"
+   height="22"
+   viewBox="0 0 22 22"
+   version="1.1"
+   id="svg1"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <defs
+     id="defs1" />
+  <metadata
+     id="metadata1">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <path
+     style="fill:#ffffff;fill-opacity:1;stroke-width:4;stroke-dashoffset:1"
+     d="M 2,20 V 5.8832858 A 3.8832858,3.8832858 135 0 1 5.8832858,2 H 12 A 2.0024792,2.0024792 135.07089 0 1 9.9950447,4 H 6.0352964 A 2.0352964,2.0352964 135 0 0 4,6.0352964 V 8 h 6 A 2.0318254,2.0318254 135.89056 0 1 7.9368401,10 H 4 v 8 a 2,2 135 0 1 -2,2 z"
+     id="path1" />
+  <path
+     style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:2;stroke-dasharray:none;stroke-dashoffset:1;stroke-opacity:1"
+     id="path2"
+     d="m 13,10.778724 a 3.7795277,3.7795277 0 0 1 2.242255,-3.4527707 3.7795277,3.7795277 0 0 1 4.06627,0.6440341" />
+  <path
+     style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:2;stroke-dasharray:none;stroke-dashoffset:1;stroke-opacity:1"
+     id="path2-7"
+     d="m -12.999656,-15.187754 a 3.7795277,3.7795277 0 0 1 2.242256,-3.45277 3.7795277,3.7795277 0 0 1 4.0662697,0.644034"
+     transform="scale(-1)" />
+  <rect
+     style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2.20177;stroke-dasharray:none;stroke-dashoffset:1;stroke-opacity:1"
+     id="rect2"
+     width="2"
+     height="4.4499998"
+     x="12"
+     y="10.779" />
+  <path
+     id="rect3"
+     style="fill:#ffffff;stroke-width:2.56199;stroke-dashoffset:1"
+     d="M 12.062376,12 H 18 a 2.0314272,2.0314272 135.87968 0 1 -2.062375,2 H 10 a 2.0314272,2.0314272 135.87968 0 1 2.062376,-2 z" />
+  <circle
+     style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.529165;stroke-dasharray:none;stroke-dashoffset:1;stroke-opacity:1"
+     id="path3"
+     cx="19"
+     cy="19"
+     r="1" />
+</svg>
